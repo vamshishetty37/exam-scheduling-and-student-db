@@ -1,0 +1,8 @@
+{
+  "name": "ExamFlow",
+  "description": "An advanced exam scheduling and student record management system powered by heap sort for optimal prioritization and organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
